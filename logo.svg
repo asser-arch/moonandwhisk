@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 100" role="img" aria-label="Moon & Whisk logo">
+<defs><mask id="m"><rect width="100" height="100" fill="#fff"/><circle cx="58" cy="42" r="34" fill="#000"/></mask></defs>
+<circle cx="42" cy="52" r="40" fill="#F2B84B" mask="url(#m)"/>
+<circle cx="60" cy="70" r="17" fill="#1B2A4A"/><polygon points="45,66 47,47 57,56" fill="#1B2A4A"/><polygon points="63,56 73,47 75,66" fill="#1B2A4A"/>
+<circle cx="52" cy="38" r="7.5" fill="#FFF4E0" stroke="#1B2A4A" stroke-width="2.2"/><circle cx="60" cy="33" r="8.5" fill="#FFF4E0" stroke="#1B2A4A" stroke-width="2.2"/><circle cx="68" cy="38" r="7.5" fill="#FFF4E0" stroke="#1B2A4A" stroke-width="2.2"/><rect x="51" y="39" width="18" height="11" rx="2" fill="#FFF4E0" stroke="#1B2A4A" stroke-width="2.2"/>
+<ellipse cx="55" cy="70.5" rx="2.2" ry="2.5" fill="#FFF4E0"/><ellipse cx="65" cy="70.5" rx="2.2" ry="2.5" fill="#FFF4E0"/>
+<text x="112" y="62" font-family="Fredoka, 'Fredoka One', sans-serif" font-weight="700" font-size="42" fill="#1B2A4A">Moon & Whisk</text>
+</svg>
